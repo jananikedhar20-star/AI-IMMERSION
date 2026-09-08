@@ -1,0 +1,2 @@
+Invoice_No,Job_No,BL_No,Container_No,Agent_Name,Customer_Name,POL,POD,Container_Type,Quantity,Unit_Rate,Ocean_Freight,Origin_THC,Dest_THC,Currency,Total_Amount
+INV-2026-8501,JOB-9601,HBL-SHA-RTM-601,CMAU1122998,Rotterdam Gateway Logistics,Nexus Cargo,CNSHA,NLRTM,20GP,2,1850.0,3700.0,360.0,440.0,USD,4900.0

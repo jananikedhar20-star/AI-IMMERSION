@@ -1,0 +1,2 @@
+Invoice_No,Job_No,BL_No,Container_No,Agent_Name,Customer_Name,POL,POD,Container_Type,Quantity,Unit_Rate,Ocean_Freight,Origin_THC,Dest_THC,Currency,Total_Amount
+INV-2026-8601,JOB-9701,HBL-NSA-HAM-701,HLCU8877665,Hanseatic Forwarding,EuroAuto GmbH,INNSA,DEHAM,40HC,1,2600.0,2600.0,195.0,290.0,USD,3085.0

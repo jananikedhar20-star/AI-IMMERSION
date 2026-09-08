@@ -1,0 +1,2 @@
+Invoice_No,Job_No,BL_No,Container_No,Agent_Name,Customer_Name,POL,POD,Container_Type,Quantity,Unit_Rate,Ocean_Freight,Origin_THC,Dest_THC,Currency,Total_Amount
+INV-2026-8301,JOB-9401,HBL-BKK-SYD-401,MSCU9988776,Austral Freight Services,Southern Cross Ltd,THBKK,AUSYD,40GP,1,2100.0,2100.0,175.0,310.0,USD,2585.0

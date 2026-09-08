@@ -1,0 +1,3 @@
+Invoice_No,Job_No,BL_No,Container_No,Agent_Name,Customer_Name,POL,POD,Container_Type,Quantity,Unit_Rate,Ocean_Freight,Origin_THC,Dest_THC,Doc_Fee,Handling_Fee,Customs_Clearance,POL_Expenses,POD_Expenses,Currency,Total_Amount
+INV-2026-8001,JOB-9101,HBL-SIN-LAX-101,MSKU9012345,Pacific Ocean Logistics,Apex Retailers,SGSIN,USLAX,40HC,1,3200.0,3200.0,210.0,350.0,75.0,50.0,120.0,150.0,180.0,USD,4335.0
+INV-2026-8002,JOB-9102,HBL-SHA-RTM-102,CMAU7894561,Rotterdam Gateway Logistics,EuroLogistics BV,CNSHA,NLRTM,20GP,1,1850.0,1850.0,180.0,220.0,65.0,40.0,95.0,110.0,140.0,USD,2700.0

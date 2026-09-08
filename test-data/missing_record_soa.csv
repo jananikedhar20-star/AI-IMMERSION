@@ -1,0 +1,2 @@
+Invoice_No,Job_No,BL_No,Container_No,Agent_Name,Customer_Name,POL,POD,Container_Type,Quantity,Unit_Rate,Ocean_Freight,Origin_THC,Dest_THC,Currency,Total_Amount
+INV-2026-8201,JOB-9301,HBL-HKG-LAX-301,OOLU1122334,Pacific Ocean Logistics,Apex Retailers,HKHKG,USLAX,40HC,1,3100.0,3100.0,200.0,340.0,USD,3640.0

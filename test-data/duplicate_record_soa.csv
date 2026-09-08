@@ -1,0 +1,3 @@
+Invoice_No,Job_No,BL_No,Container_No,Agent_Name,Customer_Name,POL,POD,Container_Type,Quantity,Unit_Rate,Ocean_Freight,Origin_THC,Dest_THC,Currency,Total_Amount
+INV-2026-8401,JOB-9501,HBL-SIN-LAX-501,MSKU5544332,Pacific Ocean Logistics,Global Cargo Ltd,SGSIN,USLAX,40HC,1,3200.0,3200.0,210.0,350.0,USD,3760.0
+INV-2026-8401-DUP,JOB-9501,HBL-SIN-LAX-501,MSKU5544332,Pacific Ocean Logistics,Global Cargo Ltd,SGSIN,USLAX,40HC,1,3200.0,3200.0,210.0,350.0,USD,3760.0
